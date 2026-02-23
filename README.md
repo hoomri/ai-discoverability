@@ -53,8 +53,8 @@ This repo deploys a static landing page via **GitHub Pages**.
 ### Development
 ```bash
 # Clone
-git clone https://github.com/OmriHochman/found-by-ai.git
-cd found-by-ai
+git clone https://github.com/hoomri/discovered-by-ai.git
+cd discovered-by-ai
 
 # Edit index.html, styles.css, etc.
 # Open locally: just double-click index.html or use live server
