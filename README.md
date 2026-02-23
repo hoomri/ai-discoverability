@@ -3,7 +3,7 @@
 **From Invisible to AI's #1 Recommendation**
 Make your business the go-to choice in ChatGPT, Gemini, Perplexity, Grok, and emerging AI agents — before users even search traditionally.
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-found--by--ai.com-brightgreen)](https://found-by-ai.com)
+[![Live Site](https://img.shields.io/badge/Live%20Site-discovered--by--ai.com-brightgreen)](https://discovered-by-ai.com)
 [![X Follow](https://img.shields.io/badge/Follow%20@OmriHochman-blue?logo=x&logoColor=white)](https://x.com/OmriHochman)
 
 ## What This Is
@@ -48,7 +48,7 @@ This repo deploys a static landing page via **GitHub Pages**.
 ### Deployment
 1. Files are in the root (or `/docs` folder if preferred)
 2. Go to **Settings > Pages** → Set source to **main** branch → Root
-3. Custom domain configured: **found-by-ai.com**
+3. Custom domain configured: **discovered-by-ai.com**
 
 ### Development
 ```bash
