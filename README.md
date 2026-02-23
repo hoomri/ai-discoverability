@@ -1,4 +1,4 @@
-# Found by AI
+# Discovered by AI
 
 **From Invisible to AI's #1 Recommendation**
 Make your business the go-to choice in ChatGPT, Gemini, Perplexity, Grok, and emerging AI agents — before users even search traditionally.
@@ -8,7 +8,7 @@ Make your business the go-to choice in ChatGPT, Gemini, Perplexity, Grok, and em
 
 ## What This Is
 
-This repository hosts the official landing page for **Found by AI** — a specialized agency service helping NYC (and beyond) local businesses (restaurants, clinics, salons, shops, services) thrive in the AI-first search era.
+This repository hosts the official landing page for **Discovered by AI** — a specialized agency service helping NYC (and beyond) local businesses (restaurants, clinics, salons, shops, services) thrive in the AI-first search era.
 
 In 2026, most discovery happens inside conversational AI:  
 - Users ask "best NYC sushi for date night" → ChatGPT/Gemini recommends  
@@ -23,7 +23,7 @@ We ensure your business appears where high-intent decisions are made today:
 - As a trusted source LLMs cite confidently  
 - Through direct agent actions (e.g., "book a table" via WebMCP)
 
-Traditional SEO keeps you alive. **Found by AI** makes you dominate the generative age.
+Traditional SEO keeps you alive. **Discovered by AI** makes you dominate the generative age.
 
 ## Services Overview
 
